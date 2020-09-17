@@ -1,4 +1,4 @@
-# Diabetes prediccion
+# Diabetes prediction
 
 #### Repo Structure!
   - `raw_data`: The raw data given to solve the challenge
