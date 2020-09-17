@@ -1,0 +1,17 @@
+admission_source,admission_source_id
+ Emergency Room,1
+ Physician Referral,2
+Transfer from a hospital,3
+ Transfer from another health care facility,4
+Clinic Referral,5
+ Transfer from a Skilled Nursing Facility (SNF),6
+HMO Referral,7
+ Not Mapped,8
+ Not Available,9
+ Court/Law Enforcement,10
+ Transfer from hospital inpt/same fac reslt in a sep claim,11
+ Transfer from critial access hospital,12
+Normal Delivery,13
+ Transfer from Ambulatory Surgery Center,14
+ Extramural Birth,15
+ Sick Baby,16
